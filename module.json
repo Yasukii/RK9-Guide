@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": false,
+    "name": "RK9-Guide",
+    "author": "Yasukii",
+    "description": "Guide for rk9 dungeon",
+    "options": {
+        "niceName": "rk9guide"
+    },
+    "servers": ["https://raw.githubusercontent.com/Yasukii/RK9-Guide/master/"],
+    "supportUrl": "https://github.com/Yasukii/RK9-Guide/issues"
+}
